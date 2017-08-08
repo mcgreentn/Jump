@@ -2161,7 +2161,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1
-  upMult: 8.5
-  sideMult: 1.8
+  upMult: 7.6
+  sideMult: 1.6
   anim: {fileID: 1004798456}
   animTriggered: 0
